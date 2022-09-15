@@ -26,3 +26,4 @@ class Stock{
         System.out.println("MAx profit is "+maxprof);
     }
 }
+
