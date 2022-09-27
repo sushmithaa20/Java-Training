@@ -42,5 +42,6 @@ public class TotalNoDays {
         String d = "2019-01-09";
         int ans = dayOfYear(d);
         System.out.println(ans);
+        
     }
 }
