@@ -34,6 +34,6 @@ public class Main
 		    }
 		   
 		}
-		System.out.println(cnt-1);
+		System.out.println(cnt);
 	}
 }
